@@ -18,7 +18,14 @@ html {
 }
 
 body {
-	background: #ff00ff;
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+body {
+	background: #2fd878;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
