@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Oliver Rylance</td>
     <td>Date</td>
-    <td>29/09/16</td>
+    <td>05/10/16</td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Two tasks in</td>
+    <td>0</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Complete another two tasks like in the previous lesson</td>
+    <td>Create a github and make a blog page</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td></td>
+    <td>yes</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies worked?</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Asking the teacher for help and following his step by step tutorial on how to make a github account :D</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td></td>
+    <td>For the first half of the lesson the teacher was in the other classroom helping people and the teacher *grrrrrr*</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Try to be independent </td>
   </tr>
 </table>
 
