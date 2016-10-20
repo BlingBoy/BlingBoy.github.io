@@ -1,15 +1,15 @@
 ---
-title: Using Github Template 3 - Oliver Rylance
+title: 05-10-16 Github With Ollie
 layout: post
 author: oliver.rylance
-permalink: /using-github-template-3---oliver-rylance/
+permalink: /05-10-16-Github-With-Ollie/
 source-id: 1CBTKz5SeySl74ju8waFSgqaKyV1_QYTLzqZh3QJ1uJg
 published: true
 ---
 <table style="width:100%">
   <tr>
     <td>Title</td>
-    <td>Oliver Rylance</td>
+    <td>Making a Github and Using it</td>
     <td>Date</td>
     <td>05/10/16</td>
   </tr>
@@ -52,7 +52,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Try to be independent </td>
+    <td>Try to be independent and figure out how to do things by just googling things :P</td>
   </tr>
 </table>
 
