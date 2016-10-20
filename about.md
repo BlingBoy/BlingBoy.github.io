@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about you! Get ready!!!!!!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm and extremely popular boy with a lot of potential! Also, you can contact me at any time and I'll hopefully be online
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[oliver.rylance@challoners.org](mailto:email@domain.com)
