@@ -18,17 +18,21 @@ avatar: http://www.aspirehire.co.uk/aspirehire-co-uk/_img/profile.svg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
+ <footer class="site-footer">
+  
   email: oliver.rylance@challoners.org
-  facebook: Oliver Rylance
+  facebook: https://www.facebook.com/profile.php?id=100010546231966
+  instagram: https://www.instagram.com/oliver.rylance/?hl=en
+  youtube: oliver.rylance@challoners.org # channel/<your_long_string> or user/<user-name>
+    
+  </footer>
   flickr:
   github: 
-  instagram: oliver.rylance
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: oliver.rylance@challoners.org # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
