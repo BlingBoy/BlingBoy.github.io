@@ -1,8 +1,8 @@
 ---
-title: Using Github Template 1 - Oliver Rylance
+title: 15-09-16 Github With Ollie
 layout: post
 author: oliver.rylance
-permalink: /using-github-template-1---oliver-rylance/
+permalink: /15-09-16-Github_With_Ollie/
 source-id: 1IZPDUvbrmREpys_M1Cqf9dxZVaLOyDUgILA9Wk1KVws
 published: true
 ---
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>0</td>
+    <td>Absolute 0</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Complete a task</td>
+    <td>Complete a task on th keyboard device thing</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes but we didn't have a USB stick so we couldn't save it</td>
+    <td>Yes but we didn't have a USB stick so we couldn't save it D;</td>
   </tr>
 </table>
 
@@ -47,14 +47,12 @@ published: true
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Not having a USB stick to save it all on in the end</td>
+    <td>Not having a USB stick to save it all on in the end D;</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Bring in a USB stick</td>
+    <td>Bring in a USB stick to save everything</td>
   </tr>
 </table>
-
-
