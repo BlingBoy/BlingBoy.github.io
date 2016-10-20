@@ -1,11 +1,3 @@
----
-title: 05-10-16 Github With Ollie
-layout: post
-author: oliver.rylance
-permalink: /05-10-16-github-with-ollie/
-source-id: 1CBTKz5SeySl74ju8waFSgqaKyV1_QYTLzqZh3QJ1uJg
-published: true
----
 <table style="width:100%">
   <tr>
     <td>Title</td>
