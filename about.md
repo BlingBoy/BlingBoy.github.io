@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you! Get ready!!!!!!
+Some information about you! Get ready!!!
 
 ### More Information
 
-I'm and extremely popular boy with a lot of potential! Also, you can contact me at any time and I'll hopefully be online
+I'm a very hard working boy and I like using computers... Perfect for this subject :D
 
 ### Contact me
 
