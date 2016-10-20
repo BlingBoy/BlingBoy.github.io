@@ -6,7 +6,7 @@ permalink: /using-github-template-3---oliver-rylance/
 source-id: 1CBTKz5SeySl74ju8waFSgqaKyV1_QYTLzqZh3QJ1uJg
 published: true
 ---
-<table>
+<table style="width:100%">
   <tr>
     <td>Title</td>
     <td>Oliver Rylance</td>
@@ -16,7 +16,7 @@ published: true
 </table>
 
 
-<table>
+<table style="width:100%">
   <tr>
     <td>Starting point:</td>
     <td>0</td>
@@ -28,12 +28,11 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>yes</td>
+    <td>Yes, not being helped right from the start, by the teacher made it harder but in the end it worked out just fine</td>
   </tr>
 </table>
 
-
-<table>
+<table style="width:100%">
   <tr>
     <td>Lesson Review</td>
   </tr>
