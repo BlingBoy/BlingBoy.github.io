@@ -9,14 +9,8 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    </tr>
-    <tr>
     <td>Making a Github and Using it</td>
-    </tr>
-    <tr>
     <td>Date</td>
-    </tr>
-    <tr>
     <td>05/10/16</td>
   </tr>
 </table>
