@@ -74,7 +74,7 @@ h4 {
 
 p {
   margin: 15px 0;
-  color: #fff72b;
+  color: $blue;
 }
 
 a {
@@ -211,7 +211,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #fff72b;
   font-size: 16px;
 
   @include mobile {
