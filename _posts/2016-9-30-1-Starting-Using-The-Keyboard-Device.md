@@ -2,7 +2,7 @@
 title: Starting Using The Keyboard Device
 layout: post
 author: oliver.rylance
-permalink: /1-github-with-ollie-15-09-16/
+permalink: /1/
 source-id: 17bnZRr7EQ8H1tOC6SRzj6QiVd7KaOdXoo03wEbJOkRo
 published: true
 ---
