@@ -2,7 +2,7 @@
 title: Finally Bringing My USB Stick
 layout: post
 author: oliver.rylance
-permalink: /2-github-with-ollie-22-09-16/
+permalink: /2/
 source-id: 1G2oT-j-9VQBYG_-CgOiKX_T_BgGvvsC2i7SQXNo3bKA
 published: true
 ---
