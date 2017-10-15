@@ -64,14 +64,6 @@ Also, maybe not spend a bunch of time doing an almost pointless task like making
   </tr>
 </table>
 
-</head>
-<body>
-
-<p class="mix">A mixed border.</p>
-
-</body>
-</html>
-
 Here is where I have made it up to:
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQKluXBZ0LC1EpQuz2I2HOXwIewr9Py1ExdSGRvyoNXNOj-FThtVzdNeav9zLNazJHh9tRU5e-HRT2D/pubhtml?widget=true&amp;headers=false"></iframe>
