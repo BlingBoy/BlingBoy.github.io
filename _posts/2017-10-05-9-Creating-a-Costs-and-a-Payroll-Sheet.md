@@ -43,15 +43,15 @@ published: true
   </tr>
   <tr>
     <td>I made up a way of making the payroll and and cost sheets. Also, I made up what costs would be on the cost sheet so that I didn't just have the payroll total per year.
-
-<p> I am now trying to make a new grand total only using the discount sheet and the order without having to use any of the other cells to add up; It’ll take a lot brackets… I’m going to call it Grand Total (Detached). </p> </td>
+<br>
+I am now trying to make a new grand total only using the discount sheet and the order without having to use any of the other cells to add up; It’ll take a lot brackets… I’m going to call it Grand Total (Detached). </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
     <td>The fact that I had to double check things as I went to ensure that I got things right and everything connected perfectly. 
-
+<br>
 I also have no support while making the Grand Total (Detached) so I will have to wait a lot of time experimenting.</td>
   </tr>
   <tr>
@@ -59,29 +59,13 @@ I also have no support while making the Grand Total (Detached) so I will have to
   </tr>
   <tr>
     <td>Try to be a bit less nitpicky and stick with my guts when I make things up off the top of my head.
-
+<br>
 Also, maybe not spend a bunch of time doing an almost pointless task like making a detached total.</td>
   </tr>
 </table>
 
-<p> </p>
-<p> </p>
-<p> </p>
-
-<html>
-<head>
-<style>
-
-p.dashed {border-style: dashed;}
-
-</style>
-</head>
-<body>
-
-<p class="dashed"></p>
-
-</body>
-</html>
+<br>
+<p class="mix">A mixed border.</p>
 
 Here is where I have made it up to:
 
