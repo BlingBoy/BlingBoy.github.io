@@ -2,7 +2,7 @@
 title: Went Off in the Wrong Direction :p
 layout: post
 author: oliver.rylance
-permalink: /5-github-with-ollie-20-10-16/
+permalink: /5/
 source-id: 1Et5p0LuWdFDbM53EK3pMP3b9yYg5FU2ODjQ2CxE-ZTo
 published: true
 ---
