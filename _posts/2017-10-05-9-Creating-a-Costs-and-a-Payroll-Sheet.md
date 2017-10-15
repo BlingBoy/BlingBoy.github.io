@@ -64,7 +64,6 @@ Also, maybe not spend a bunch of time doing an almost pointless task like making
   </tr>
 </table>
 
-<br>
 <p class="mix">A mixed border.</p>
 
 Here is where I have made it up to:
