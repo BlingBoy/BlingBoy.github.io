@@ -2,7 +2,7 @@
 title: Second Week
 layout: post
 author: oliver.rylance
-permalink: /second-week/
+permalink: /7/
 source-id: 1bPJ5STS9z8F9lCjFryzZD34inKbgVp64xdJ81ZL2_JM
 published: true
 ---
