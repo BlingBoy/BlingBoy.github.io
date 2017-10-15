@@ -2,7 +2,7 @@
 title: Making a Github and Using it
 layout: post
 author: oliver.rylance
-permalink: /3-github-with-ollie-05-10-16/
+permalink: /3/
 source-id: 1MiE635a-jmq9Wx0aILLluUgzFKulwATJFW5oaV7jGeg
 published: true
 ---
