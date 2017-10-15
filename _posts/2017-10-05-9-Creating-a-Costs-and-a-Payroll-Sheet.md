@@ -44,7 +44,7 @@ published: true
   <tr>
     <td>I made up a way of making the payroll and and cost sheets. Also, I made up what costs would be on the cost sheet so that I didn't just have the payroll total per year.
 
-I am now trying to make a new grand total only using the discount sheet and the order without having to use any of the other cells to add up; It’ll take a lot brackets… I’m going to call it Grand Total (Detached). </td>
+<p> I am now trying to make a new grand total only using the discount sheet and the order without having to use any of the other cells to add up; It’ll take a lot brackets… I’m going to call it Grand Total (Detached). </p> </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
