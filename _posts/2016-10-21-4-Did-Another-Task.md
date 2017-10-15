@@ -2,7 +2,7 @@
 title: Did Another Task :D
 layout: post
 author: oliver.rylance
-permalink: /4-github-with-ollie-13-10-16/
+permalink: /4/
 source-id: 1Dp7jUyKGGbW7bPLClvAeu5tZcdFE0gfg5zH7NGJDXv0
 published: true
 ---
